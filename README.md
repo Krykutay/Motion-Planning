@@ -1,6 +1,6 @@
 # compgeopolygon
 
-http://krykutay.github.io/compgeopolygon
+http://krykutay.github.io/ShortestSafePath
 
 Open the link above.
 
